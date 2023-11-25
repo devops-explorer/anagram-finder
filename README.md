@@ -92,8 +92,8 @@ To build and run the Anagram Generator using Docker, follow these steps:
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/-repository.git
-   cd your-repository
+   git clone https://github.com/devops-explorer/anagram-finder.git
+   cd anagram-finder
    docker build -t my-anagram-app .
    docker run my-anagram-app
    ```
